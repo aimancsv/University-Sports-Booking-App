@@ -31,14 +31,15 @@ APSport is designed to streamline the process of booking sports facilities for u
 
 # User Manual
 
-![image](https://github.com/user-attachments/assets/dae0bbfd-8478-44ab-a0a0-6351fc2365a0)
-![image](https://github.com/user-attachments/assets/c7c52cd5-9aca-4b06-ae89-db85b8b97281)
-![image](https://github.com/user-attachments/assets/1b9203d3-4ad4-4367-8f39-56bd4b4932cb)
-![image](https://github.com/user-attachments/assets/86a48b17-7659-462e-9dca-e54390a5f2fc)
-![image](https://github.com/user-attachments/assets/26739428-8300-4ddd-91c6-4767d4afd31a)
-![image](https://github.com/user-attachments/assets/68b782cb-edf5-4cdd-8a73-dc43e46b9e6b)
-![image](https://github.com/user-attachments/assets/236be59f-6a5e-4eaa-a55e-3a5fedf84423)
-![image](https://github.com/user-attachments/assets/2b3635ec-dc2c-42bc-a675-476509e762b6)
+<img src="https://github.com/user-attachments/assets/dae0bbfd-8478-44ab-a0a0-6351fc2365a0" alt="image 1" width="300">
+<img src="https://github.com/user-attachments/assets/c7c52cd5-9aca-4b06-ae89-db85b8b97281" alt="image 2" width="300">
+<img src="https://github.com/user-attachments/assets/1b9203d3-4ad4-4367-8f39-56bd4b4932cb" alt="image 3" width="300">
+<img src="https://github.com/user-attachments/assets/86a48b17-7659-462e-9dca-e54390a5f2fc" alt="image 4" width="300">
+<img src="https://github.com/user-attachments/assets/26739428-8300-4ddd-91c6-4767d4afd31a" alt="image 5" width="300">
+<img src="https://github.com/user-attachments/assets/68b782cb-edf5-4cdd-8a73-dc43e46b9e6b" alt="image 6" width="300">
+<img src="https://github.com/user-attachments/assets/236be59f-6a5e-4eaa-a55e-3a5fedf84423" alt="image 7" width="300">
+<img src="https://github.com/user-attachments/assets/2b3635ec-dc2c-42bc-a675-476509e762b6" alt="image 8" width="300">
+
 
 
 ---
