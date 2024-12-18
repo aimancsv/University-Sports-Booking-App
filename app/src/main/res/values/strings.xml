@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">APSport</string>
+    <string name="logo_desc">Logo</string>
+    <string name="name_hint">Name</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="email_hint">Email Address</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="confirmpassword_hint">Confirm Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="error_icon">Show error icon</string>
+    <string name="login_error_header">Login Error</string>
+    <string name="login_error_desc">Incorrect email address or password!</string>
+</resources>
